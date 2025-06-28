@@ -1,0 +1,9 @@
+# ninja log v5
+0	93	7684258980475445	CMakeFiles/lockpin.dir/main.c.obj	139006bf951d4b4a
+1	103	7684259791067308	CMakeFiles/lockpin.dir/lockpin.c.obj	5283868b003d4b3a
+103	221	7684259792228584	lockpin.exe	19a601fd9bfc2cda
+6	79	7684332744227576	CMakeFiles/lockpin.dir/main.c.obj	139006bf951d4b4a
+2	106	7684332744507618	CMakeFiles/lockpin.dir/lockpin.c.obj	5283868b003d4b3a
+2	93	7684352275870698	CMakeFiles/lockpin.dir/lockpin.c.obj	5283868b003d4b3a
+10	125	7684445422963768	CMakeFiles/lockpin.dir/main.c.obj	139006bf951d4b4a
+3	139	7684445423144135	CMakeFiles/lockpin.dir/lockpin.c.obj	5283868b003d4b3a
