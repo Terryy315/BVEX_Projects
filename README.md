@@ -1,5 +1,5 @@
 # Summer2025
-Some of the work for the BVEX project, as reference and extra backup
+Some of the work for the BVEX project, as references
 
 Contains hardware and software files
 
